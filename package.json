@@ -1,12 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "users-app",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
     "loader-utils": "3.2.1",
